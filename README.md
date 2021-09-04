@@ -2,9 +2,9 @@
 Tool to get all file from specific folder
 Usefull for 42 Makefile wich wildard are forbidden.
 
-* [Informations](#infos)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Informations](#Informations)
+* [Setup](#Setup)
+* [Usage](#Usage)
 
 ## Informations
 Makefile SRCS is a tool to get your files from a specific folder.
